@@ -51,13 +51,16 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 ### Developer Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=githubactions,aws,fastapi,postgres,firebase,gcp,docker" alt="Developer Technologies" />
+  <img src="https://skillicons.dev/icons?i=githubactions,aws,fastapi,postgres,firebase,gcp,docker,mongodb,sqlite,figma" alt="Developer Technologies" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </p>
 
 ### Libraries / Frameworks
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,nextjs,express,spring" alt="Libraries and Frameworks" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
 </p>
 
 ## Featured Projects 🚀
