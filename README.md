@@ -64,7 +64,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🧠 Study Buddy AI | An AI study platform that turns user-uploaded files into personalized flashcards and quizzes. | Next.js · AWS · Firebase · Anthropic API |
+| 🤖 Study Buddy AI | An AI study platform that turns user-uploaded files into personalized flashcards and quizzes. | Next.js · AWS · Firebase · Anthropic API |
 | 📈 Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
 | 🍽️ Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
