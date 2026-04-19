@@ -2,7 +2,7 @@
   <img src="./assets/banner.png" alt="Elisa banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Elisa</h1>
+<h1 align="center">Hi, I'm Elisa!</h1>
 
 <p align="center">
   CS Student @ Queen's University
@@ -22,7 +22,7 @@
 
 ## About Me 💗
 
-I'm a third-year CS student at Queen's University who loves all things technology and learning about data, ML, security, and software development. I'm constantly coming up with new project ideas, I've participated in multiple hackathons, and I love the thrill of building.
+I'm a third-year CS student at Queen's University who loves all things technology! I like learning about data, ML, security, and software development. I'm constantly coming up with new project ideas, I've participated in multiple hackathons, and enjoy the thrill of building more than anything.
 
 In my free time, I love going to the gym, hiking, and boxing. I've also been a huge video game enthusiast since I was younger. My favorite games are story-driven titles, but I've also played competitively in games like Call of Duty, Valorant, and more.
 
@@ -64,7 +64,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🧠 Study Buddy AI | AI study platform that turns user-uploaded files into personalized flashcards and quizzes with 30+ active users. | Next.js · AWS · Firebase · Anthropic API |
+| 🧠 Study Buddy AI | An AI study platform that turns user-uploaded files into personalized flashcards and quizzes. | Next.js · AWS · Firebase · Anthropic API |
 | 📈 Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
 | 🍽️ Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
