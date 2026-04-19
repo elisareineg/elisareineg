@@ -2,8 +2,6 @@
   <img src="./assets/banner.png" alt="Elisa banner" width="100%" />
 </p>
 
-<h1 align="center">Hi, I'm Elisa!</h1>
-
 <p align="center">
   CS Student @ Queen's University
 </p>
