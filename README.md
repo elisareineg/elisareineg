@@ -61,7 +61,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" height="48" style="vertical-align: middle;" />
 </p>
 
-## Featured Projects 🚀
+## Featured Projects 
 
 | Project | Description | Stack |
 | --- | --- | --- |
@@ -69,7 +69,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 | 📈 Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
 | 🍽️ Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
-## GitHub Stats 📊
+## GitHub Stats 
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=elisareineg&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
@@ -80,7 +80,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
   <img src="https://streak-stats.demolab.com?user=elisareineg&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
-## Let's Connect 📫
+## Let's Connect!
 
 <p>
   <a href="mailto:elisareine.a.goncalves@gmail.com">elisareine.a.goncalves@gmail.com</a>
