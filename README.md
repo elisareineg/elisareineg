@@ -72,7 +72,20 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elisareineg&theme=github-compact&hide_border=true&area=true" alt="Elisa's GitHub contribution graph" />
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/elisareineg/elisareineg/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/elisareineg/elisareineg/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/elisareineg/elisareineg/output/github-contribution-grid-snake.svg"
+      alt="Snake animation eating Elisa's GitHub contributions"
+    />
+  </picture>
 </p>
 
 ## Let's Connect!
