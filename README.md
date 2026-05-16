@@ -20,7 +20,7 @@
 
 ## About Me 
 
-I'm a third-year CS student at Queen's University who loves all things technology. I like to delve deep into projects and news involving data, ML, and security. I'm constantly coming up with new project ideas, I've participated in multiple hackathons, and enjoy the thrill of building more than anything.
+I'm a third-year CS student at Queen's University who loves all things technology. I like to delve deep into projects and news involving data, ML, and security. I'm constantly coming up with new project ideas, I've participated in multiple hackathons, and love the thrill of building new things.
 
 In my free time, I love going to the gym, hiking, and boxing. I've also been a huge video game enthusiast since I was younger. My favorite games are story-driven, but I've also played competitively in games like Call of Duty, Valorant, and more.
 
