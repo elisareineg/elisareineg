@@ -69,23 +69,10 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 | Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
 | Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
-## Contribution Graph
+## GitHub Wrapped
 
 <p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/elisareineg/elisareineg/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/elisareineg/elisareineg/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/elisareineg/elisareineg/output/github-contribution-grid-snake.svg"
-      alt="Snake animation eating Elisa's GitHub contributions"
-    />
-  </picture>
+  <img src="https://raw.githubusercontent.com/elisareineg/elisareineg/output/contribution-wrapped.svg" alt="Elisa's Spotify Wrapped-style GitHub contribution graph" />
 </p>
 
 ## Let's Connect!
