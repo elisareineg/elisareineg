@@ -72,9 +72,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 ## Github Contribution Graph (but Spotify style 🪩) 
 
 <p align="center">
-  <p align="center">
-  <img src="https://raw.githubusercontent.com/elisareineg/elisareineg/output/contribution-wrapped.svg" alt="Elisa's Spotify Wrapped-style GitHub contribution graph" />
-</p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=elisareineg&theme=default" />
 </p>
 
 ## Let's Connect!
