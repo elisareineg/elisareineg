@@ -18,11 +18,11 @@
   </a>
 </p>
 
-## About Me 💗
+## About Me 
 
 I'm a third-year CS student at Queen's University who loves all things technology. I like to delve deep into projects and news involving data, ML, and security. I'm constantly coming up with new project ideas, I've participated in multiple hackathons, and enjoy the thrill of building more than anything.
 
-In my free time, I love going to the gym, hiking, and boxing. I've also been a huge video game enthusiast since I was younger. My favorite games are story-driven titles, but I've also played competitively in games like Call of Duty, Valorant, and more.
+In my free time, I love going to the gym, hiking, and boxing. I've also been a huge video game enthusiast since I was younger. My favorite games are story-driven, but I've also played competitively in games like Call of Duty, Valorant, and more.
 
 ## Tech Stack 🛠️
 
@@ -65,9 +65,9 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🤖 Study Buddy AI | An AI study platform that turns user-uploaded files into personalized flashcards and quizzes. | Next.js · AWS · Firebase · Anthropic API |
-| 📈 Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
-| 🍽️ Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
+| Study Buddy AI | An AI study platform that turns user-uploaded files into personalized flashcards and quizzes. | Next.js · AWS · Firebase · Anthropic API |
+| Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
+| Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
 ## GitHub Stats 
 
