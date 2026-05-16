@@ -69,15 +69,10 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 | Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
 | Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
-## GitHub Stats 
+## Contribution Graph
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=elisareineg&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elisareineg&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=elisareineg&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=elisareineg&theme=github-compact&hide_border=true&area=true" alt="Elisa's GitHub contribution graph" />
 </p>
 
 ## Let's Connect!
