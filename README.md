@@ -72,7 +72,7 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 ## Github Contribution Graph 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+   <img src="https://streak-stats.demolab.com?user=elisareineg&theme=transparent&hide_border=true" alt="GitHub streak" />
 </p>
 
 ## Let's Connect!
