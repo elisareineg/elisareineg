@@ -95,10 +95,12 @@ const levelFor = (count) => {
   return 4;
 };
 
-const square = 10;
-const gap = 4;
-const gridX = 350;
-const gridY = 146;
+const square = 8;
+const gap = 3;
+const gridX = 410;
+const gridY = 154;
+const cardWidth = 1080;
+const cardHeight = 460;
 const grid = weeks
   .flatMap((week, weekIndex) =>
     week.contributionDays.map((day) => {
@@ -119,50 +121,51 @@ const labels = monthLabels
   .join("\n");
 
 const svg = `<?xml version="1.0" encoding="UTF-8"?>
-<svg width="960" height="420" viewBox="0 0 960 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="${cardWidth}" height="${cardHeight}" viewBox="0 0 ${cardWidth} ${cardHeight}" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">${user}'s GitHub Wrapped contribution graph</title>
   <desc id="desc">${total} GitHub contributions over the last year, shown as a Spotify Wrapped-style contribution grid.</desc>
   <style>
     .eyebrow { fill: #1db954; font: 700 16px Arial, sans-serif; letter-spacing: 2px; text-transform: uppercase; }
-    .title { fill: #ffffff; font: 900 46px Arial, sans-serif; }
+    .title { fill: #ffffff; font: 900 48px Arial, sans-serif; }
     .label { fill: #b3b3b3; font: 700 15px Arial, sans-serif; }
     .number { fill: #ffffff; font: 900 72px Arial, sans-serif; }
     .small-number { fill: #ffffff; font: 900 28px Arial, sans-serif; }
-    .month { fill: #8d8d8d; font: 700 11px Arial, sans-serif; }
+    .month { fill: #8d8d8d; font: 700 10px Arial, sans-serif; }
     .chip { fill: #191919; stroke: #2f2f2f; stroke-width: 1; }
   </style>
-  <rect width="960" height="420" rx="28" fill="#121212"/>
-  <path d="M0 310 C160 246 235 396 391 326 C540 259 584 112 756 159 C850 185 898 128 960 76 V420 H0 Z" fill="#1DB954" opacity="0.18"/>
-  <path d="M660 0 H960 V214 C902 197 864 154 798 151 C716 147 680 194 602 179 C542 168 494 127 432 135 C361 144 312 208 248 221 C158 239 77 183 0 216 V0 H660 Z" fill="#1DB954" opacity="0.08"/>
+  <rect width="${cardWidth}" height="${cardHeight}" rx="28" fill="#121212"/>
+  <path d="M0 342 C164 272 254 424 424 352 C588 282 640 120 824 172 C924 200 988 132 1080 82 V460 H0 Z" fill="#1DB954" opacity="0.18"/>
+  <path d="M760 0 H1080 V232 C1016 214 974 166 902 164 C812 160 774 210 688 194 C622 182 570 138 502 148 C424 158 370 228 300 244 C196 268 84 202 0 238 V0 H760 Z" fill="#1DB954" opacity="0.08"/>
 
   <text x="48" y="70" class="eyebrow">GitHub Wrapped</text>
-  <text x="48" y="122" class="title">Contribution Mix</text>
-  <text x="50" y="180" class="label">Total contributions</text>
-  <text x="48" y="252" class="number">${total.toLocaleString("en-US")}</text>
+  <text x="48" y="126" class="title">Contribution</text>
+  <text x="48" y="176" class="title">Mix</text>
+  <text x="50" y="226" class="label">Total contributions</text>
+  <text x="48" y="296" class="number">${total.toLocaleString("en-US")}</text>
 
-  <rect x="48" y="290" width="118" height="74" rx="12" class="chip"/>
-  <text x="64" y="322" class="small-number">${activeDays}</text>
-  <text x="64" y="348" class="label">active days</text>
+  <rect x="48" y="334" width="118" height="74" rx="12" class="chip"/>
+  <text x="64" y="366" class="small-number">${activeDays}</text>
+  <text x="64" y="392" class="label">active days</text>
 
-  <rect x="184" y="290" width="118" height="74" rx="12" class="chip"/>
-  <text x="200" y="322" class="small-number">${maxWeek}</text>
-  <text x="200" y="348" class="label">top week</text>
+  <rect x="184" y="334" width="118" height="74" rx="12" class="chip"/>
+  <text x="200" y="366" class="small-number">${maxWeek}</text>
+  <text x="200" y="392" class="label">top week</text>
 
-  <text x="${gridX}" y="96" class="label">Last 12 months</text>
-  <text x="${gridX}" y="116" class="eyebrow">Square contribution graph</text>
+  <text x="${gridX}" y="98" class="label">Last 12 months</text>
+  <text x="${gridX}" y="120" class="eyebrow">Square contribution graph</text>
   ${labels}
   ${grid}
 
-  <rect x="${gridX}" y="268" width="232" height="52" rx="12" class="chip"/>
-  <text x="${gridX + 18}" y="300" class="label">Best day: ${maxDay.contributionCount} contributions</text>
-  <text x="736" y="300" class="label">Less</text>
+  <rect x="${gridX}" y="280" width="232" height="52" rx="12" class="chip"/>
+  <text x="${gridX + 18}" y="312" class="label">Best day: ${maxDay.contributionCount} contributions</text>
+  <text x="822" y="312" class="label">Less</text>
   ${palette
     .map(
       (color, index) =>
-        `<rect x="${774 + index * 18}" y="290" width="10" height="10" rx="2" fill="${color}"/>`
+        `<rect x="${860 + index * 18}" y="302" width="10" height="10" rx="2" fill="${color}"/>`
     )
     .join("\n  ")}
-  <text x="878" y="300" class="label">More</text>
+  <text x="964" y="312" class="label">More</text>
 </svg>
 `;
 
