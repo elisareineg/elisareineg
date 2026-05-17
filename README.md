@@ -69,12 +69,6 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
 | Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
 | Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
 
-## Github Contribution Graph 
-
-<p align="center">
-   <img src="https://streak-stats.demolab.com?user=elisareineg&theme=transparent&hide_border=true" alt="GitHub streak" />
-</p>
-
 ## Let's Connect!
 
 <p>
