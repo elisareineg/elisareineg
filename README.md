@@ -61,16 +61,13 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" height="48" style="vertical-align: middle;" />
 </p>
 
-## Featured Projects 
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| Study Buddy AI | An AI study platform that turns user-uploaded files into personalized flashcards and quizzes. | Next.js · AWS · Firebase · Anthropic API |
-| Forecastr | Stock prediction web app fusing market data and NLP for short-term price direction with confidence scores. | FastAPI · scikit-learn · Next.js · Supabase · BERT |
-| Tamsactions | Marketplace for Queen's students to buy and sell meal credits with secure auth and Stripe payments. | TypeScript · React · Firebase · Stripe |
+## Portfolio: https://elisagoncalves.ca
 
 ## Let's Connect!
 
 <p>
   <a href="mailto:elisareine.a.goncalves@gmail.com">elisareine.a.goncalves@gmail.com</a>
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=elisareineg&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
