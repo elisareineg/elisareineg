@@ -61,13 +61,10 @@ In my free time, I love going to the gym, hiking, and boxing. I've also been a h
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" height="48" style="vertical-align: middle;" />
 </p>
 
-## Portfolio: https://elisagoncalves.ca
 
 ## Let's Connect!
 
 <p>
   <a href="mailto:elisareine.a.goncalves@gmail.com">elisareine.a.goncalves@gmail.com</a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=elisareineg&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
-</p>
+
